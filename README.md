@@ -1,1 +1,1 @@
-# social.api
+# social-api-repository
