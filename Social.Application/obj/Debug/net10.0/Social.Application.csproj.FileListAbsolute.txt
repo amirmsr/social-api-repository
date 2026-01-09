@@ -1,0 +1,15 @@
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/bin/Debug/net10.0/Social.Application.deps.json
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/bin/Debug/net10.0/Social.Application.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/bin/Debug/net10.0/Social.Application.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/bin/Debug/net10.0/Social.Domain.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/bin/Debug/net10.0/Social.Domain.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.csproj.AssemblyReference.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.AssemblyInfoInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.AssemblyInfo.cs
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.csproj.CoreCompileInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.A.61FB715F.Up2Date
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/refint/Social.Application.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/Social.Application.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Application/obj/Debug/net10.0/ref/Social.Application.dll

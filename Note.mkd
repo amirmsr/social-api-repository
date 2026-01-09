@@ -1,0 +1,28 @@
+### Fonctionnement 
+
+
+## ÉTAPE 1 — Le client appelle l’API
+
+# ÉTAPE 2 — CONTROLLER
+- Le contrôleur reçoit la requête HTTP
+- Le transforme en objet C#
+- Ne fait aucune logique métier
+- Dit d'appeler le service puis de retourner une reponse 
+
+
+# ÉTAPE 3 SERVICE Couche Applicatif
+
+* Contient le cas d’usage métier
+* Il dit quoi faire en utilisant les methode dans le contrat sans connaitre la BDD EF Core en se basant sur le contrat l'interface
+
+# ÉTAPE 4 CONTRAT
+
+* Fais le lien entre ce qui est demandé par le service et la couche infrastructure qui elle est en communication avec la BDD
+
+# ETAPE 5 Couche infrastructure
+
+* Communique avec la base de donnée via EF core ORM pour faire une requete sql a la BDD
+
+# ETAPE 6 RESULTAT
+
+* Remonte dans le service ou le resultat est mappe en DTO 

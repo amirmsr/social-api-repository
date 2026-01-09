@@ -1,0 +1,11 @@
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/bin/Debug/net10.0/Social.Domain.deps.json
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/bin/Debug/net10.0/Social.Domain.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/bin/Debug/net10.0/Social.Domain.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.AssemblyInfoInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.AssemblyInfo.cs
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.csproj.CoreCompileInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/refint/Social.Domain.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/Social.Domain.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Domain/obj/Debug/net10.0/ref/Social.Domain.dll

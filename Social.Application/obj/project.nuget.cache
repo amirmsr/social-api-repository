@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cm7ssFODNgY=",
+  "success": true,
+  "projectFilePath": "/Users/amirmansour/Documents/Projet/social-api/Social.Application/Social.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/amirmansour/.nuget/packages/bcrypt.net-next/4.0.2/bcrypt.net-next.4.0.2.nupkg.sha512",
+    "/Users/amirmansour/.nuget/packages/microsoft.identitymodel.abstractions/6.31.0/microsoft.identitymodel.abstractions.6.31.0.nupkg.sha512",
+    "/Users/amirmansour/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.31.0/microsoft.identitymodel.jsonwebtokens.6.31.0.nupkg.sha512",
+    "/Users/amirmansour/.nuget/packages/microsoft.identitymodel.logging/6.31.0/microsoft.identitymodel.logging.6.31.0.nupkg.sha512",
+    "/Users/amirmansour/.nuget/packages/microsoft.identitymodel.tokens/6.31.0/microsoft.identitymodel.tokens.6.31.0.nupkg.sha512",
+    "/Users/amirmansour/.nuget/packages/system.identitymodel.tokens.jwt/6.31.0/system.identitymodel.tokens.jwt.6.31.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.31.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "projectPath": "/Users/amirmansour/Documents/Projet/social-api/Social.Application/Social.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/amirmansour/Documents/Projet/social-api/Social.Application/Social.Application.csproj",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.31.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "projectPath": "/Users/amirmansour/Documents/Projet/social-api/Social.Application/Social.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/amirmansour/Documents/Projet/social-api/Social.Application/Social.Application.csproj",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

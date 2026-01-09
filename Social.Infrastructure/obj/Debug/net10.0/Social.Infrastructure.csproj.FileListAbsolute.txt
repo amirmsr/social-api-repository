@@ -1,0 +1,17 @@
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Infrastructure.deps.json
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Infrastructure.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Infrastructure.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Application.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Domain.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Domain.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/bin/Debug/net10.0/Social.Application.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.csproj.AssemblyReference.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.AssemblyInfoInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.AssemblyInfo.cs
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.I.4042C87C.Up2Date
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/refint/Social.Infrastructure.dll
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/Social.Infrastructure.pdb
+/Users/amirmansour/Documents/Projet/social-api/Social.Infrastructure/obj/Debug/net10.0/ref/Social.Infrastructure.dll
