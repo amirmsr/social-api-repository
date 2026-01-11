@@ -12,12 +12,10 @@ using Social.Application.Services;
 using Social.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
-// Add JWT Authentication
 
-
-var jwtSecret = "s3cureLongSecretKey_ChangeThisToEnv_0123456789ABCDEF";
-builder.Services.AddSingleton<LoginUserService>(_ =>
-    new LoginUserService(builder.Services.BuildServiceProvider().GetRequiredService<IUserRepository>(), jwtSecret));
+//  Configuration JWT 
+var jwtSecret = builder.Configuration["JwtSettings:Secret"] 
+    ?? throw new InvalidOperationException("JWT Secret non configuré dans la configuration");
 
 builder.Services.AddAuthentication(options =>
 {
@@ -31,7 +29,8 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSecret)),
         ValidateIssuer = false,
-        ValidateAudience = false
+        ValidateAudience = false,
+        ClockSkew = TimeSpan.Zero 
     };
 });
 
