@@ -47,6 +47,10 @@ builder.Services.AddScoped<DeletePostService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<RegisterUserService>();
 
+builder.Services.AddScoped<LoginUserService>(sp =>
+    new LoginUserService(sp.GetRequiredService<IUserRepository>(), jwtSecret));
+builder.Services.AddScoped<RegisterUserService>();
+
 
 
 // Add services to the container.
